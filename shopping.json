@@ -1,0 +1,12 @@
+[
+    {
+        "name": "maize",
+        "qty": 1,
+        "price": 1.5
+    },
+    {
+        "name": "piens",
+        "qty": 2,
+        "price": 1.2
+    }
+]
